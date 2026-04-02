@@ -6,7 +6,7 @@ const PROJECTS = [
         tags: ["JavaScript", "UI", "Quiz Design"],
         liveUrl: "https://bawelch.github.io/TENX/",
         sourceUrl: "https://github.com/bawelch/TENX",
-        image: "assets/images/quiz-game.jpg"
+        image: "assets/images/placeholder.png"
     },
     {
         title: "Detective Logic System",
@@ -15,7 +15,7 @@ const PROJECTS = [
         tags: ["JavaScript", "Procedural Design", "Systems"],
         liveUrl: "https://bawelch.github.io/taggit/",
         sourceUrl: "https://github.com/bawelch/taggit",
-        image: "assets/images/detective-game.jpg"
+        image: "assets/images/placeholder.png"
     },
     {
         title: "Maths Genealogy Visualiser",
@@ -24,7 +24,7 @@ const PROJECTS = [
         tags: ["JavaScript", "D3", "Visualisation"],
         liveUrl: "https://bawelch.github.io/mathsgp/",
         sourceUrl: "https://github.com/yourusername/mathsgp",
-        image: "assets/images/genealogy-tool.jpg"
+        image: "assets/images/placeholder.png"
     },
     {
         title: "Slot Simulation Sandbox",
@@ -33,6 +33,6 @@ const PROJECTS = [
         tags: ["JavaScript", "Simulation", "Game Maths"],
         liveUrl: "https://bawelch.github.io/MIMIR/",
         sourceUrl: "https://github.com/bawelch/MIMIR",
-        image: "assets/images/quiz-game.jpg"
+        image: "assets/images/placeholder.png"
     }
 ];
