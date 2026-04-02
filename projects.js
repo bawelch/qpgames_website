@@ -4,7 +4,7 @@ const PROJECTS = [
         category: "Games & Prototypes",
         summary: "A browser-based ranking quiz system with expandable formats, stateful progression, and multiple content structures.",
         tags: ["JavaScript", "UI", "Quiz Design"],
-        liveUrl: "https://bawelch.github.io/TENX/",
+        liveUrl: "bawelch.github.io/TENX/",
         sourceUrl: "https://github.com/bawelch/TENX",
         image: "assets/images/placeholder.png"
     },

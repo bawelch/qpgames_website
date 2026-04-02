@@ -132,6 +132,9 @@
     <None Include="projects.js" />
     <None Include="style.css" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assests\images\placeholder.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

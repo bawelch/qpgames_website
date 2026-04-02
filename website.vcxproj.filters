@@ -20,4 +20,9 @@
     <None Include="projects.js" />
     <None Include="main.js" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assests\images\placeholder.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
