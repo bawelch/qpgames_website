@@ -20,7 +20,7 @@ const PROJECTS = [
     {
         title: "Maths Genealogy Visualiser",
         category: "Visualisation",
-        summary: "An interactive graph-based tool for exploring mathematical ancestry, relationships, and structural patterns in academic lineages.",
+        summary: "An interactive graph-based tool for exploring mathematical ancestry, relationships, in my academic lineage.",
         tags: ["JavaScript", "D3", "Visualisation"],
         liveUrl: "https://bawelch.github.io/mathsgp/",
         sourceUrl: "https://github.com/yourusername/mathsgp",
